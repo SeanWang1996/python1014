@@ -9,4 +9,3 @@ pip install selenium
 ### demo26
 * python using selenium for ucom website
 
-//123
