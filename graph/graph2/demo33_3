@@ -1,0 +1,10 @@
+digraph {
+	A -> B
+	A -> A
+	B -> B
+	B -> B
+	C -> B
+	A -> D
+	E -> F [label=132546]
+	E -> A
+}
