@@ -1,6 +1,7 @@
 digraph {
-	graph [bgcolor="#C0FFEE" fontcolor="#000099" fontsize=18 label="展示用的圖片" rankdir=LR]
-	node [fillcolor="#FFC0EE" fontcolor=black shape=box style=filled]
+	graph [bgcolor="#C0FFEE" fontcolor="#000099" fontname=simsun fontsize=18 label="展示用的圖片" rankdir=LR]
+	node [fillcolor="#FFC0EE" fontcolor=black fontname=simsun shape=box style=filled]
+	edge [arrowhead=open color="#FF0000" fontcolor="#000000" fontname=simsun fontsize=24 style=dotted]
 	A [label="Node A"]
 	B [label="Node B"]
 	C [label="中文"]
